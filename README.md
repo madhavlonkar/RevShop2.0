@@ -4,6 +4,9 @@ This project was developed by a team of 5 developers. Due to security concerns, 
 
 If you need access to the repository or its commit history for reference, please email **madhavlonkar2@gmail.com**.
 
+### Repository Link:
+You can find the project repository [here](https://github.com/madhavlonkar/RevShopSpring.git).
+
 ### Note:
 The `application.properties` file is missing from the repository to avoid sharing sensitive information. However, the following keys are placeholders for configuration, and you will need to provide your own values:
 
